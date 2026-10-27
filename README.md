@@ -58,6 +58,10 @@ an agent that only knows the registry still reaches the bus as `agent-link__link
                  └────────────────────────────┘
 ```
 
+<p align="center">
+  <img src="docs/hub.jpg" alt="The live hub page: MCP, HTTP API and CLI faces, the identities with presence and unread counts, and recent messages" width="100%">
+</p>
+
 ## Identities in use
 
 | id | what it is |
